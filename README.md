@@ -7,7 +7,8 @@ Repositório para projetos realizados no Bootcamp da Amdocs em parceria com a DI
 
 
 <h2> Mais sobre Bootcamp<h2>
-<p><a href="https://web.dio.me/track/amdocs-java-developer?tab=path" Bootcamp Amdocs JAVA Developer></a>
-<p>Olá Dev, já pensou na possibilidade de se tornar mais hábil para o mercado, e de se especializar ainda mais na tecnologia de Java? Pois se sim, este é o seu momento de brilhar! O Bootcamp Amdocs JAVA Developer foi pensado especialmente para o seu desenvolvimento como Dev, trazendo uma sequência completa de cursos, mentorias e desafios. Não perca essa chance e se inscreva!</P>
+<p>
+<a href="https://web.dio.me/track/amdocs-java-developer?tab=path" Bootcamp Amdocs JAVA Developer></a></p>
+<p><a Olá Dev, já pensou na possibilidade de se tornar mais hábil para o mercado, e de se especializar ainda mais na tecnologia de Java? Pois se sim, este é o seu momento de brilhar! O Bootcamp Amdocs JAVA Developer foi pensado especialmente para o seu desenvolvimento como Dev, trazendo uma sequência completa de cursos, mentorias e desafios. Não perca essa chance e se inscreva!></P>
 
 
